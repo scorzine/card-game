@@ -110,7 +110,7 @@ class Board:
 		self.populate_zones()
 		self.populate_mana()
 		self.decks = open("Decks",'r')
-		self.deck_name1 = "test_cards"
+		self.deck_name1 = "RB"
 		self.deck_name2 = "GY"
 		self.populate_decks()
 		self.create_trigger_dict()
