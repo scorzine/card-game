@@ -37,12 +37,19 @@ Many descriptions of units and spells include "keywords" such as "Alacrity", "Ar
 shorthand to describe their effects.
 
 #consume: can destroy an allied unit to pay for part of its mana cost mana
+
 #stake: pick a unit zone to apply a lasting effect
+
 #undermine: if your enemy only has units with defense higher than your attack, you can attack directly with this unit
+
 #arrival: this effect will trigger when you play this unit
+
 #afterdeath: this effect will trigger when this unit dies
+
 #alacrity: this unit may attack immidiately after being played
+
 #procure: draw a specific card from your deck
+
 #prep: applies to spells that can be casted at the end of your turn to trigger on your opponents turn during the specified trigger
 
 In addition, some units have abilities that can paid for and used once the unit is already on the field. This will be denoted by mana
