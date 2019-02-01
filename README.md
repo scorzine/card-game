@@ -11,12 +11,12 @@ you can only attack your opponent if there are no units your opponent controls t
 
 In general, a turn you take in the game will proceed as follows:
 
-First you would increase the amount of "Mana" or resource you have of one of the 4 colors located on the right. This action is performed
-by left clicking one of the animated colored squares which will then add 1 resource of that color to be available. This is a permanent 
-addition, so if you use it up on one turn, when you begin your next turn that mana will be restored in addition to whichever color you pick
-then. So for example if I began my first turn by adding "Red", I would be able to spend 1 "Red" mana that turn. Then next turn, I would 
-start out with 1 "Red" and could either add another "Red" allowing me to spend up to 2 "Red" mana, or I could add "Blue", allowing me to
-spend up to 1 "Red and 1 "Blue" that turn.
+First you draw a card from your deck and then you would increase the amount of "Mana" or resource you have of one of the 4 colors
+located on the right. This action is performed by left clicking one of the animated colored squares which will then add 1 resource of
+that color to be available. This is a permanent addition, so if you use it up on one turn, when you begin your next turn that mana will
+be restored in addition to whichever color you pick then. So for example if I began my first turn by adding "Red", I would be able to
+spend 1 "Red" mana that turn. Then next turn, I would start out with 1 "Red" and could either add another "Red" allowing me to spend up
+to 2 "Red" mana, or I could add "Blue", allowing me to spend up to 1 "Red and 1 "Blue" that turn.
 
 The next step would be to play a unit or spell using your mana. units are cards in your hand that lie in the center of the screen 
 and are denoted by the amount of mana they cost in colored circles on the bottom left of the card indicating the type of mana they cost. 
@@ -46,7 +46,8 @@ shorthand to describe their effects.
 #prep: applies to spells that can be casted at the end of your turn to trigger on your opponents turn during the specified trigger
 
 In addition, some units have abilities that can paid for and used once the unit is already on the field. This will be denoted by mana
-circles appearing in their description. Spells and activated abilities such as these are cast by using right click instead of left click.
+circles appearing in their description. Spells and activated abilities such as these are cast by using right click instead of left
+click.
 
 The goal of the game is to reduce your oppoenents life to 0, but its very hard to do that when they have unit's in the way. Prioritize
 destroying enemy units efficiently and quickly to gain a lead and chip away at their life total.
